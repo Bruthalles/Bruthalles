@@ -1,12 +1,8 @@
-## Hi there 👋
-repositorio criado para praticar python, POO, git e RAD
-A branch main contém programas que no início eram exercícios simples de POO do ChatGPT.
-Eu os transformei cada um em um projeto fullstack
-
 # Olá mundo, Me chamo Thalles Brumatti 👋
 ---
-Gosto de desenvolver criatividades em forma de tecnologias. 
-Quero me tornar Analista de sistemas e desenvolvedor fullstack
+Sou movido a desenvolver experiências criativas e divertidas em forma de tecnologias. 
+Entusiasmo e Pró-atividade é o que me mantém de pé, sem perder a energia.
+Quero me tornar Analista de sistemas e desenvolvedor fullstack.
 ---
 ### 🥇 Educaçao
 - Análise e Desenvolvimento de Sistemas / Estácio de Sá
@@ -15,8 +11,8 @@ Quero me tornar Analista de sistemas e desenvolvedor fullstack
 - Curso de Front-end / FrontCode
   
 ### 🏆 Sobre Mim
-Sou um entusiasta de tecnologia e programação. Trabalho com desenvolvimento full stack no ambiente .NET e adoro explorar novas tecnologias, incluindo IoT com Arduino.
-Já trabalhei com java, python e javascript.
+Sou um entusiasta de tecnologia e programação. Adoro explorar novas tecnologias, Já realizei projetos com java, React, python, C, incluindo IoT com Arduino.
+Atualmente inicaindo no ambiente .NET.
 ### 🚀 Habilidades Técnicas
 
 #### 📜 Linguagens de Programação
