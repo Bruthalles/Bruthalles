@@ -12,7 +12,7 @@ Quero me tornar Analista de sistemas e desenvolvedor fullstack.
   
 ### 🏆 Sobre Mim
 Sou um entusiasta de tecnologia e programação. Adoro explorar novas tecnologias, Já realizei projetos com java, React, python, C, incluindo IoT com Arduino.
-Atualmente inicaindo no ambiente .NET.
+Atualmente iniciando no ambiente .NET.
 ### 🚀 Habilidades Técnicas
 
 #### 📜 Linguagens de Programação
@@ -37,7 +37,6 @@ Atualmente inicaindo no ambiente .NET.
 #### ⚙️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 ### 🌎 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/thalles-brumatti-13047226a/))
