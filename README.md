@@ -7,7 +7,6 @@ Quero me tornar Analista de sistemas e desenvolvedor fullstack.
 ### 🥇 Educaçao
 - Análise e Desenvolvimento de Sistemas / Estácio de Sá
 - Certificação em Gestão de Projetos / Coursera , CIEE + Google
-- Certificação Azure DP-100 / DIO + Microsoft
 - Curso de Front-end / FrontCode
   
 ### 🏆 Sobre Mim
