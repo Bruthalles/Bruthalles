@@ -51,7 +51,3 @@ Atualmente iniciando no ambiente .NET.
 </div>
 
 ---
-
-✉️ Se quiser trocar uma ideia, me chama!
-📩 **Email:** thallesgmkr@gmail.com
-
