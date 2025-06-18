@@ -1,8 +1,10 @@
 # Olá mundo, Me chamo Thalles Brumatti 👋
 ---
-Sou movido a desenvolver experiências criativas e divertidas em forma de tecnologias. 
+Sou obcecado em hardware e software. 
+Uso a minha criatividade para transformar a vida de outras pessoas em forma de tecnologias. 
 Entusiasmo e Pró-atividade é o que me mantém de pé, sem perder a energia.
-Quero me tornar Analista de sistemas e desenvolvedor fullstack.
+Estou me tornando Analista de sistemas e desenvolvedor fullstack .NET. 
+Também tenho interesses na área de robótica e IOT.
 ---
 ### 🥇 Educaçao
 - Análise e Desenvolvimento de Sistemas / Estácio de Sá
@@ -26,11 +28,10 @@ Atualmente iniciando no ambiente .NET.
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### 🛢️ Bancos de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQLServer-%234ea94b.svg?style=for-the-badge&logo=sqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite%20-CC2927?style=for-the-badge&logo=microsoft%20sqlite%20&logoColor=white)
 
 #### ⚙️ Ferramentas
@@ -47,7 +48,7 @@ Atualmente iniciando no ambiente .NET.
 <div align="center">
   <a href="https://github.com/seu-usuario">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruthalles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruthalles&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruthalles&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ---
