@@ -61,7 +61,7 @@ Atualmente, foco em expandir meus conhecimentos no ecossistema **.NET**.
 <div align="center">
   <a href="https://github.com/Bruthalles">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruthalles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruthalles&layout=compact&langs_count=6&theme=tokyonight&exclude_repo=Bruthalles"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruthalles&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=emissao-carteirinhas"/>
   </a>
 </div>
 
