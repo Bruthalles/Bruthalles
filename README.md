@@ -2,7 +2,7 @@
 
 ---
 
-Sou apaixonado por hardware e software. Uso minha criatividade para criar tecnologias que melhoram a vida das pessoas.  
+Sou apaixonado por hardware. Uso minha criatividade para criar tecnologias que melhoram a vida das pessoas.  
 Entusiasmo e proatividade me mantêm de pé — sem perder a energia!  
 Atualmente estou me tornando **Analista de Sistemas** e **Desenvolvedor Fullstack .NET**. Também tenho grande interesse em **Robótica** e **IoT**.
 
@@ -11,8 +11,10 @@ Atualmente estou me tornando **Analista de Sistemas** e **Desenvolvedor Fullstac
 ### 🎓 Educação
 
 - **Análise e Desenvolvimento de Sistemas** — Estácio de Sá
-- **Certificação em Gestão de Projetos** — Coursera, CIEE + Google
-- **Curso de Front-end** — FrontCode
+- **Ciência da Computação — Estácio de Sá
+- **WEX End to End Engineering com C#, SQL Server, AWS, Docker e QA (Curso)
+- **Riachuelo Cibersegurança - Linux e ethical hacking básico (Curso)
+- **TOTVS - Engenharia de dados e machine learning (Curso)
 
 ---
 
