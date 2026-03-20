@@ -11,10 +11,10 @@ Atualmente estou me tornando **Analista de Sistemas** e **Desenvolvedor Fullstac
 ### 🎓 Educação
 
 - **Análise e Desenvolvimento de Sistemas** — Estácio de Sá
-- **Ciência da Computação — Estácio de Sá
-- **WEX End to End Engineering com C#, SQL Server, AWS, Docker e QA (Curso)
-- **Riachuelo Cibersegurança - Linux e ethical hacking básico (Curso)
-- **TOTVS - Engenharia de dados e machine learning (Curso)
+- **Ciência da Computação — Estácio de Sá**
+- **WEX End to End Engineering com C#, SQL Server, AWS, Docker e QA** (Curso)
+- **Riachuelo Cibersegurança - Linux e ethical hacking básico** (Curso)
+- **TOTVS - Engenharia de dados e machine learning** (Curso)
 
 ---
 
